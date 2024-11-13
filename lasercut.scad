@@ -1,9 +1,8 @@
-UP = 0;
-DOWN = 180;
-LEFT = 90;
-RIGHT = 270;
-MID = 360;
-kerf=0.0;// Hacky global for kerf
+L_UP = 0;
+L_DOWN = 180;
+L_LEFT = 90;
+L_RIGHT = 270;
+L_MID = 360;
 
 generate = 0; 
 
